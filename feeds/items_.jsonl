@@ -1,18 +1,53 @@
+{"id":"0443108a2e2","url":"https://www.chrisatmachine.com/rss.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173557203Z"}
 {"id":"052434531db","url":"https://simonwillison.net/atom/everything/","title":"Simon Willison's Weblog","site_url":"http://simonwillison.net/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211142248Z"}
+{"id":"0cdc1a4fcac","url":"https://kentcdodds.com/blog/rss.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173561609Z"}
+{"id":"12db47ba304","url":"http://blog.jetbrains.com/webstorm/feed/","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173561402Z"}
+{"id":"1ee25c2e8de","url":"https://svelte.dev/blog/rss.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173558952Z"}
 {"id":"23687f971b3","url":"https://minimaxir.com/post/index.xml","title":"Posts on Max Woolf's Blog","site_url":"https://minimaxir.com/post/","description":"Recent content in Posts on Max Woolf's Blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.210892885Z"}
+{"id":"2c419f654a7","url":"https://api.reddit.com/search/LibreLingo/0e1602a2-e078-4ff8-b82d-304be02199f8","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173556766Z"}
+{"id":"4230e346c77","url":"https://news.google.com/rss/search?hl=es-419&gl=US&ceid=US:es-419&q=LibreLingo","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173556507Z"}
+{"id":"449cde1ff77","url":"https://overreacted.io/rss.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173559242Z"}
 {"id":"4617dbf382d","url":"https://www.coinerella.com/rss/","title":"Coinerella","site_url":"https://www.coinerella.com/","description":"IT-Consultants and Bloggers. We love Flutter, Dart, React, Rust and Blockchain.","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211169970Z"}
+{"id":"47685b35eb5","url":"http://blog.jetbrains.com/pycharm/feed/","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173557572Z"}
 {"id":"4977f17e33d","url":"https://michael.stapelberg.ch/feed.xml","title":"Michael Stapelbergs Website","site_url":"https://michael.stapelberg.ch/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211167403Z"}
+{"id":"5610562633d","url":"https://dev.to/feed/richharris","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173557787Z"}
+{"id":"589c9bf789c","url":"https://www.youtube.com/playlist?list=UU1ZBQ-F-yktYD4m5AzM6pww","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173565137Z"}
+{"id":"5a332ea4404","url":"http://www.ara.cat/rss/","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173561854Z"}
+{"id":"5d1aaa7ffd6","url":"http://www.genbeta.com/index.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173564567Z"}
+{"id":"5e94dfdfda5","url":"https://github.com/sveltejs/svelte/releases.atom","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173557967Z"}
+{"id":"5ed695d82c0","url":"http://feeds.feedburner.com/Techcrunch","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173563834Z"}
+{"id":"669c803451f","url":"http://feeds.weblogssl.com/xataka2","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173564896Z"}
+{"id":"6c7bb23f8db","url":"https://www.youtube.com/feeds/videos.xml?channel_id=UCTdw38Cw6jcm0atBPA39a0Q","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173560808Z"}
 {"id":"6edf23cec42","url":"https://www.scottsmitelli.com/index.xml","title":"Scott Smitelli","site_url":"https://www.scottsmitelli.com/","description":"Recent content on Scott Smitelli","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211258571Z"}
+{"id":"72a544f056d","url":"https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=LibreLingo","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173557027Z"}
+{"id":"72d68c78df1","url":"https://lexi-lambda.github.io/feeds/all.atom.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173561221Z"}
+{"id":"7777a4774b8","url":"https://www.youtube.com/feeds/videos.xml?channel_id=UCXLesGEfmyhxqOjoAqhRwhA","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173562692Z"}
 {"id":"826aa74c199","url":"https://tonsky.me/atom.xml","title":"tonsky.me","site_url":"https://tonsky.me/","description":"Nikita Prokopov’s blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211147109Z"}
+{"id":"83b05e9fa20","url":"http://typicalprogrammer.com/feed.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173561006Z"}
+{"id":"847e52851d4","url":"https://api.reddit.com/subreddit/reactjs/0e1602a2-e078-4ff8-b82d-304be02199f8","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173558628Z"}
+{"id":"8882294aa62","url":"http://facebook.github.io/react/feed.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173560533Z"}
 {"id":"8d3f1e6f706","url":"https://terriblesoftware.org/feed/","title":"Terrible Software","site_url":"https://terriblesoftware.org","description":"Software | Engineering Leadership | Tech","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211094363Z"}
+{"id":"90468c71a60","url":"https://medium.freecodecamp.org/feed","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173564353Z"}
+{"id":"91262060437","url":"https://www.youtube.com/feeds/videos.xml?channel_id=UCGrNCjF2wKCsY85ndcWPTwA","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173563152Z"}
+{"id":"930be6dfb72","url":"https://www.youtube.com/feeds/videos.xml?channel_id=UCU_W0oE_ock8bWKjALiGs8Q","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173562948Z"}
 {"id":"930e954ac1a","url":"https://acko.net/atom.xml","title":"Acko.net","site_url":"https://acko.net/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211158106Z"}
 {"id":"94a17973fe1","url":"https://github.com/kantord/blogtato/releases.atom","title":"Release notes from blogtato","site_url":"https://github.com/kantord/blogtato/releases","description":"","is_fetched":true,"updated_at":"2026-03-08T13:09:59.813611718Z"}
 {"id":"95bd2ec50f9","url":"https://tuananh.net/feed.xml","title":"Tuan-Anh Tran","site_url":"https://tuananh.net/","description":"Recent content on Tuan-Anh Tran","is_fetched":true,"updated_at":"2026-03-08T12:11:50.210886625Z"}
+{"id":"97646ed0ddb","url":"https://www.youtube.com/playlist?list=UUSC8SLylGt1v6lbrutdH9Bw","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173555736Z"}
+{"id":"a1214a153b8","url":"http://drnerdlove.tumblr.com/rss","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173562459Z"}
+{"id":"a9176be9b70","url":"http://feeds.feedburner.com/zenhabits","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173563582Z"}
 {"id":"aac2800c268","url":"https://jonathan-frere.com/index.xml","title":"Jonathan's Blog","site_url":"https://jonathan-frere.com/","description":"Recent content on Jonathan's Blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211180483Z"}
 {"id":"ac2ebd7701d","url":"https://lr0.org/index.xml","title":"La Vita Nouva","site_url":"https://lr0.org/","description":"Recent content on La Vita Nouva","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211272346Z"}
 {"id":"ae2a5f49e62","deleted_at":"2026-03-02T10:54:27.617017054Z"}
+{"id":"af2b0da2d83","url":"http://www.engadget.com/rss-full.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173564177Z"}
+{"id":"b5620c8aa8a","url":"https://www.youtube.com/feeds/videos.xml?channel_id=UCuCkxoKLYO_EQ2GeFtbM_bw","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173565382Z"}
+{"id":"be87c604d71","url":"https://ebredoszexualitas.hu/feed/","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173562287Z"}
 {"id":"c1462616e79","url":"https://dimden.dev/rss.xml","title":"dimden","site_url":"https://dimden.dev/","description":"I'm a cat","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211099152Z"}
+{"id":"c486a759bb0","url":"https://cat.elpais.com/seccion/rss/tecnologia/","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173564006Z"}
 {"id":"cdffe28cd31","url":"https://www.noelberry.ca/rss.xml","title":"Noel Berry","site_url":"https://noelberry.ca","description":"Sometimes, when I'm in the right mood, I make video games and art. Or something.","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211183447Z"}
 {"id":"daa6863e1f3","deleted_at":"2026-03-08T12:11:13.853456684Z"}
 {"id":"f3b41fa1ae8","url":"https://www.justinmklam.com/index.xml","title":"justinmklam | blog","site_url":"https://justinmklam.com/","description":"Recent content on justinmklam | blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211124218Z"}
 {"id":"f569b6f94f0","url":"https://drewdevault.com/blog/index.xml","title":"Drew DeVault's blog","site_url":"https://drewdevault.com","description":"Recent content in Blogs on Drew DeVault's blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211089202Z"}
+{"id":"f67de55c93c","url":"http://minimalspot.com/feed/","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173563351Z"}
+{"id":"f839854a36c","url":"http://lesswrong.com/.rss","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173562073Z"}
+{"id":"fdbc66eb05e","url":"http://www.theverge.com/rss/full.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173564729Z"}
