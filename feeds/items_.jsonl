@@ -19,7 +19,7 @@
 {"id":"669c803451f","url":"http://feeds.weblogssl.com/xataka2","title":"Xataka","site_url":"https://www.xataka.com","description":"Publicación de noticias sobre gadgets y tecnología. Últimas tecnologías en electrónica de consumo y novedades tecnológicas en móviles, tablets, informática, etc","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080479892Z"}
 {"id":"6c7bb23f8db","deleted_at":"2026-03-08T21:34:50.366420834Z"}
 {"id":"6edf23cec42","url":"https://www.scottsmitelli.com/index.xml","title":"Scott Smitelli","site_url":"https://www.scottsmitelli.com/","description":"Recent content on Scott Smitelli","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211258571Z"}
-{"id":"72a544f056d","url":"https://news.google.com/rss/search?hl=en-US&gl=US&ceid=US:en&q=LibreLingo","title":"\"LibreLingo\" - Google News","site_url":"https://news.google.com/search?hl=en-US&gl=US&ceid=US:en&q=LibreLingo","description":"Google News","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080529485Z"}
+{"id":"72a544f056d","deleted_at":"2026-03-08T21:38:37.537332290Z"}
 {"id":"72d68c78df1","url":"https://lexi-lambda.github.io/feeds/all.atom.xml","title":"Alexis King’s Blog","site_url":"https://lexi-lambda.github.io/","description":"","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080887220Z"}
 {"id":"7777a4774b8","deleted_at":"2026-03-08T21:37:35.248216217Z"}
 {"id":"826aa74c199","url":"https://tonsky.me/atom.xml","title":"tonsky.me","site_url":"https://tonsky.me/","description":"Nikita Prokopov’s blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211147109Z"}
