@@ -24,7 +24,7 @@
 {"id":"7777a4774b8","deleted_at":"2026-03-08T21:37:35.248216217Z"}
 {"id":"826aa74c199","url":"https://tonsky.me/atom.xml","title":"tonsky.me","site_url":"https://tonsky.me/","description":"Nikita Prokopov’s blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211147109Z"}
 {"id":"83b05e9fa20","url":"http://typicalprogrammer.com/feed.xml","title":"","site_url":"http://typicalprogrammer.com","description":"A glittering performance of rare perception","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080328423Z"}
-{"id":"847e52851d4","url":"https://api.reddit.com/subreddit/reactjs/0e1602a2-e078-4ff8-b82d-304be02199f8","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173558628Z"}
+{"id":"847e52851d4","deleted_at":"2026-03-08T21:38:11.455619199Z"}
 {"id":"8882294aa62","url":"http://facebook.github.io/react/feed.xml","title":"React","site_url":"https://reactjs.org","description":"A JavaScript library for building user interfaces","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080683979Z"}
 {"id":"8d3f1e6f706","url":"https://terriblesoftware.org/feed/","title":"Terrible Software","site_url":"https://terriblesoftware.org","description":"Software | Engineering Leadership | Tech","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211094363Z"}
 {"id":"90468c71a60","url":"https://medium.freecodecamp.org/feed","title":"freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More","site_url":"https://www.freecodecamp.org/news/","description":"Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080665649Z"}
