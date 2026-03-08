@@ -4,7 +4,7 @@
 {"id":"4977f17e33d","url":"https://michael.stapelberg.ch/feed.xml","title":"Michael Stapelbergs Website","site_url":"https://michael.stapelberg.ch/","description":"","is_fetched":true,"updated_at":"2026-02-22T18:22:10.532283386Z"}
 {"id":"6edf23cec42","url":"https://www.scottsmitelli.com/index.xml","title":"Scott Smitelli","site_url":"https://www.scottsmitelli.com/","description":"Recent content on Scott Smitelli","is_fetched":true,"updated_at":"2026-03-01T20:26:47.338621923Z"}
 {"id":"826aa74c199","url":"https://tonsky.me/atom.xml","title":"tonsky.me","site_url":"https://tonsky.me/","description":"Nikita Prokopov’s blog","is_fetched":true,"updated_at":"2026-03-03T21:01:42.467130216Z"}
-{"id":"930e954ac1a","url":"https://acko.net/atom.xml","title":"Acko.net","site_url":"https://acko.net/","description":"","is_fetched":true,"updated_at":"2026-03-05T22:20:01.235360142Z"}
+{"id":"930e954ac1a","deleted_at":"2026-03-08T12:10:57.920505539Z"}
 {"id":"95bd2ec50f9","url":"https://tuananh.net/feed.xml","title":"Tuan-Anh Tran","site_url":"https://tuananh.net/","description":"Recent content on Tuan-Anh Tran","is_fetched":true,"updated_at":"2026-03-05T22:20:01.235686398Z"}
 {"id":"aac2800c268","url":"https://jonathan-frere.com/index.xml","title":"Jonathan's Blog","site_url":"https://jonathan-frere.com/","description":"Recent content on Jonathan's Blog","is_fetched":true,"updated_at":"2026-03-08T11:16:47.641117064Z"}
 {"id":"ac2ebd7701d","url":"https://lr0.org/index.xml","title":"La Vita Nouva","site_url":"https://lr0.org/","description":"Recent content on La Vita Nouva","is_fetched":true,"updated_at":"2026-03-07T08:01:51.421855412Z"}
