@@ -1,2 +1,2 @@
-{"id":"5319ab637cf2f606","deleted_at":"2026-03-08T12:10:58.111280940Z"}
-{"id":"53b00aaa8c41ed91","deleted_at":"2026-03-08T12:10:58.182576013Z"}
+{"id":"5319ab637cf2f606","title":"Go Protobuf: The new Opaque API","date":"2024-12-21T10:06:00Z","feed":"4977f17e33d","link":"https://michael.stapelberg.ch/posts/2024-12-21-go-protobuf-opaque/","raw_id":"https://michael.stapelberg.ch/posts/2024-12-21-go-protobuf-opaque/","updated_at":"2026-03-08T12:11:50.211163955Z"}
+{"id":"53b00aaa8c41ed91","title":"Google API Keys Weren't Secrets. But then Gemini Changed the Rules.","date":"2026-02-26T04:28:55Z","feed":"052434531db","link":"https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything","raw_id":"https://simonwillison.net/2026/Feb/26/google-api-keys/#atom-everything","updated_at":"2026-03-08T12:11:50.211134581Z"}

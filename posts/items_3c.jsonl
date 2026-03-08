@@ -1,7 +1,7 @@
-{"id":"3c1c31f3dd6237a5","deleted_at":"2026-03-08T12:10:58.267881365Z"}
-{"id":"3c1e168d40a25b41","deleted_at":"2026-03-08T12:10:57.996272639Z"}
-{"id":"3c39b8f1ffdf81d1","deleted_at":"2026-03-08T12:10:58.267881365Z"}
-{"id":"3c923a1d1cfb1d14","deleted_at":"2026-03-08T12:10:57.996272639Z"}
-{"id":"3ca82fb892d00fe4","deleted_at":"2026-03-08T12:10:57.996272639Z"}
-{"id":"3cb8b9bae98253bd","deleted_at":"2026-03-08T12:10:57.996272639Z"}
-{"id":"3ce9109b23dc215c","deleted_at":"2026-03-08T12:10:58.267881365Z"}
+{"id":"3c1c31f3dd6237a5","title":"A poor man's seedbox for $15 a year","date":"2014-09-01T00:00:00Z","feed":"95bd2ec50f9","link":"https://tuananh.net/2014/09/01/a-poor-mans-seedbox-for-15-a-year/","raw_id":"https://tuananh.net/2014/09/01/a-poor-mans-seedbox-for-15-a-year/","updated_at":"2026-03-08T12:11:50.210786749Z"}
+{"id":"3c1e168d40a25b41","title":"Setting a new focus for my blog","date":"2023-01-22T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/2023/01/22/2023-01-22-A-new-focus.html","raw_id":"https://drewdevault.com/2023/01/22/2023-01-22-A-new-focus.html","updated_at":"2026-03-08T12:11:50.210929224Z"}
+{"id":"3c39b8f1ffdf81d1","title":"Incremental regeneration in latest jekyll build","date":"2015-01-31T00:00:00Z","feed":"95bd2ec50f9","link":"https://tuananh.net/2015/01/31/incremental-regeneration-in-latest-jekyll-build/","raw_id":"https://tuananh.net/2015/01/31/incremental-regeneration-in-latest-jekyll-build/","updated_at":"2026-03-08T12:11:50.210774853Z"}
+{"id":"3c923a1d1cfb1d14","title":"Reforming the free software message","date":"2023-06-19T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/2023/06/19/Reforming-the-free-software-message.html","raw_id":"https://drewdevault.com/2023/06/19/Reforming-the-free-software-message.html","updated_at":"2026-03-08T12:11:50.210926432Z"}
+{"id":"3ca82fb892d00fe4","title":"Notes from kernel hacking in Hare, part 3: serial driver","date":"2022-10-27T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/2022/10/27/Kernel-hacking-with-Hare-part-3.html","raw_id":"https://drewdevault.com/2022/10/27/Kernel-hacking-with-Hare-part-3.html","updated_at":"2026-03-08T12:11:50.210930088Z"}
+{"id":"3cb8b9bae98253bd","title":"The \"shut up and get back to work\" coding style guide","date":"2019-04-29T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/2019/04/29/Shut-up-and-get-back-to-work-style.html","raw_id":"https://drewdevault.com/2019/04/29/Shut-up-and-get-back-to-work-style.html","updated_at":"2026-03-08T12:11:50.210978712Z"}
+{"id":"3ce9109b23dc215c","title":"Fuck callbacks! Let's use generators","date":"2015-01-18T00:00:00Z","feed":"95bd2ec50f9","link":"https://tuananh.net/2015/01/18/fuck-callbacks-lets-use-generators/","raw_id":"https://tuananh.net/2015/01/18/fuck-callbacks-lets-use-generators/","updated_at":"2026-03-08T12:11:50.210777672Z"}

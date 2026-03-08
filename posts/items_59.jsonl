@@ -1,6 +1,6 @@
-{"id":"590817eff684a019","deleted_at":"2026-03-08T12:10:58.267881365Z"}
-{"id":"593a962dd4c3d96d","deleted_at":"2026-03-08T12:10:57.996272639Z"}
-{"id":"5944703f36f4ef51","deleted_at":"2026-03-08T12:10:57.996272639Z"}
-{"id":"595d58ce575db9fd","deleted_at":"2026-03-08T12:10:57.996272639Z"}
-{"id":"59c1fa5d7966ae3d","deleted_at":"2026-03-08T12:10:58.407855974Z"}
-{"id":"59efaa58755d2c39","deleted_at":"2026-03-08T12:10:58.182576013Z"}
+{"id":"590817eff684a019","title":"Finally","date":"2013-07-13T00:00:00Z","feed":"95bd2ec50f9","link":"https://tuananh.net/2013/07/13/finally/","raw_id":"https://tuananh.net/2013/07/13/finally/","updated_at":"2026-03-08T12:11:50.210808903Z"}
+{"id":"593a962dd4c3d96d","title":"Generics aren't ready for Go","date":"2019-02-18T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/2019/02/18/Generics-arent-ready-for-Go.html","raw_id":"https://drewdevault.com/2019/02/18/Generics-arent-ready-for-Go.html","updated_at":"2026-03-08T12:11:50.210981429Z"}
+{"id":"5944703f36f4ef51","title":"FOSS contributor tracks","date":"2019-07-29T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/2019/07/29/FOSS-contributor-tracks.html","raw_id":"https://drewdevault.com/2019/07/29/FOSS-contributor-tracks.html","updated_at":"2026-03-08T12:11:50.210975984Z"}
+{"id":"595d58ce575db9fd","title":"Copyleft licenses are not “restrictive”","date":"2024-04-19T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/2024/04/19/2024-04-19-Copyleft-is-not-restrictive.html","raw_id":"https://drewdevault.com/2024/04/19/2024-04-19-Copyleft-is-not-restrictive.html","updated_at":"2026-03-08T12:11:50.210922722Z"}
+{"id":"59c1fa5d7966ae3d","title":"Shut Up and Dance","date":"2025-04-24T00:00:00Z","feed":"6edf23cec42","link":"https://www.scottsmitelli.com/articles/shut-up-and-dance/","raw_id":"https://www.scottsmitelli.com/articles/shut-up-and-dance/","updated_at":"2026-03-08T12:11:50.211187863Z"}
+{"id":"59efaa58755d2c39","title":"tldraw issue: Move tests to closed source repo","date":"2026-02-25T21:06:53Z","feed":"052434531db","link":"https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything","raw_id":"https://simonwillison.net/2026/Feb/25/closed-tests/#atom-everything","updated_at":"2026-03-08T12:11:50.211135057Z"}

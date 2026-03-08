@@ -1,17 +1,17 @@
-{"id":"052434531db","url":"https://simonwillison.net/atom/everything/","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:31.737136051Z"}
-{"id":"23687f971b3","url":"https://minimaxir.com/post/index.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:31.505023185Z"}
-{"id":"4617dbf382d","url":"https://www.coinerella.com/rss/","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:33.015717119Z"}
-{"id":"4977f17e33d","url":"https://michael.stapelberg.ch/feed.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:31.129999805Z"}
-{"id":"6edf23cec42","url":"https://www.scottsmitelli.com/index.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:34.778138990Z"}
-{"id":"826aa74c199","url":"https://tonsky.me/atom.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:32.224162032Z"}
-{"id":"8d3f1e6f706","url":"https://terriblesoftware.org/feed/","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:31.924314597Z"}
-{"id":"930e954ac1a","url":"https://acko.net/atom.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:29.354664190Z"}
-{"id":"95bd2ec50f9","url":"https://tuananh.net/feed.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:32.627495099Z"}
-{"id":"aac2800c268","url":"https://jonathan-frere.com/index.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:30.514065635Z"}
-{"id":"ac2ebd7701d","url":"https://lr0.org/index.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:30.759703762Z"}
+{"id":"052434531db","url":"https://simonwillison.net/atom/everything/","title":"Simon Willison's Weblog","site_url":"http://simonwillison.net/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211142248Z"}
+{"id":"23687f971b3","url":"https://minimaxir.com/post/index.xml","title":"Posts on Max Woolf's Blog","site_url":"https://minimaxir.com/post/","description":"Recent content in Posts on Max Woolf's Blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.210892885Z"}
+{"id":"4617dbf382d","url":"https://www.coinerella.com/rss/","title":"Coinerella","site_url":"https://www.coinerella.com/","description":"IT-Consultants and Bloggers. We love Flutter, Dart, React, Rust and Blockchain.","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211169970Z"}
+{"id":"4977f17e33d","url":"https://michael.stapelberg.ch/feed.xml","title":"Michael Stapelbergs Website","site_url":"https://michael.stapelberg.ch/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211167403Z"}
+{"id":"6edf23cec42","url":"https://www.scottsmitelli.com/index.xml","title":"Scott Smitelli","site_url":"https://www.scottsmitelli.com/","description":"Recent content on Scott Smitelli","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211258571Z"}
+{"id":"826aa74c199","url":"https://tonsky.me/atom.xml","title":"tonsky.me","site_url":"https://tonsky.me/","description":"Nikita Prokopov’s blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211147109Z"}
+{"id":"8d3f1e6f706","url":"https://terriblesoftware.org/feed/","title":"Terrible Software","site_url":"https://terriblesoftware.org","description":"Software | Engineering Leadership | Tech","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211094363Z"}
+{"id":"930e954ac1a","url":"https://acko.net/atom.xml","title":"Acko.net","site_url":"https://acko.net/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211158106Z"}
+{"id":"95bd2ec50f9","url":"https://tuananh.net/feed.xml","title":"Tuan-Anh Tran","site_url":"https://tuananh.net/","description":"Recent content on Tuan-Anh Tran","is_fetched":true,"updated_at":"2026-03-08T12:11:50.210886625Z"}
+{"id":"aac2800c268","url":"https://jonathan-frere.com/index.xml","title":"Jonathan's Blog","site_url":"https://jonathan-frere.com/","description":"Recent content on Jonathan's Blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211180483Z"}
+{"id":"ac2ebd7701d","url":"https://lr0.org/index.xml","title":"La Vita Nouva","site_url":"https://lr0.org/","description":"Recent content on La Vita Nouva","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211272346Z"}
 {"id":"ae2a5f49e62","deleted_at":"2026-03-02T10:54:27.617017054Z"}
-{"id":"c1462616e79","url":"https://dimden.dev/rss.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:29.632764454Z"}
-{"id":"cdffe28cd31","url":"https://www.noelberry.ca/rss.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:34.228078623Z"}
+{"id":"c1462616e79","url":"https://dimden.dev/rss.xml","title":"dimden","site_url":"https://dimden.dev/","description":"I'm a cat","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211099152Z"}
+{"id":"cdffe28cd31","url":"https://www.noelberry.ca/rss.xml","title":"Noel Berry","site_url":"https://noelberry.ca","description":"Sometimes, when I'm in the right mood, I make video games and art. Or something.","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211183447Z"}
 {"id":"daa6863e1f3","deleted_at":"2026-03-08T12:11:13.853456684Z"}
-{"id":"f3b41fa1ae8","url":"https://www.justinmklam.com/index.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:33.515452174Z"}
-{"id":"f569b6f94f0","url":"https://drewdevault.com/blog/index.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T12:11:30.275847949Z"}
+{"id":"f3b41fa1ae8","url":"https://www.justinmklam.com/index.xml","title":"justinmklam | blog","site_url":"https://justinmklam.com/","description":"Recent content on justinmklam | blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211124218Z"}
+{"id":"f569b6f94f0","url":"https://drewdevault.com/blog/index.xml","title":"Drew DeVault's blog","site_url":"https://drewdevault.com","description":"Recent content in Blogs on Drew DeVault's blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211089202Z"}
