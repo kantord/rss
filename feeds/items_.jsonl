@@ -29,7 +29,7 @@
 {"id":"8d3f1e6f706","url":"https://terriblesoftware.org/feed/","title":"Terrible Software","site_url":"https://terriblesoftware.org","description":"Software | Engineering Leadership | Tech","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211094363Z"}
 {"id":"90468c71a60","url":"https://medium.freecodecamp.org/feed","title":"freeCodeCamp Programming Tutorials: Python, JavaScript, Git & More","site_url":"https://www.freecodecamp.org/news/","description":"Browse thousands of programming tutorials written by experts. Learn Web Development, Data Science, DevOps, Security, and get developer career advice.","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080665649Z"}
 {"id":"91262060437","deleted_at":"2026-03-08T21:34:50.292749247Z"}
-{"id":"930be6dfb72","url":"https://www.youtube.com/feeds/videos.xml?channel_id=UCU_W0oE_ock8bWKjALiGs8Q","title":"Charisma on Command","site_url":"https://www.youtube.com/channel/UCU_W0oE_ock8bWKjALiGs8Q","description":"","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080537264Z"}
+{"id":"930be6dfb72","deleted_at":"2026-03-08T21:34:50.440672896Z"}
 {"id":"930e954ac1a","url":"https://acko.net/atom.xml","title":"Acko.net","site_url":"https://acko.net/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211158106Z"}
 {"id":"94a17973fe1","url":"https://github.com/kantord/blogtato/releases.atom","title":"Release notes from blogtato","site_url":"https://github.com/kantord/blogtato/releases","description":"","is_fetched":true,"updated_at":"2026-03-08T13:09:59.813611718Z"}
 {"id":"95bd2ec50f9","url":"https://tuananh.net/feed.xml","title":"Tuan-Anh Tran","site_url":"https://tuananh.net/","description":"Recent content on Tuan-Anh Tran","is_fetched":true,"updated_at":"2026-03-08T12:11:50.210886625Z"}
