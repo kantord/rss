@@ -1,4 +1,4 @@
-{"id":"0443108a2e2","url":"https://www.chrisatmachine.com/rss.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173557203Z"}
+{"id":"0443108a2e2","deleted_at":"2026-03-09T11:55:36.477219453Z"}
 {"id":"052434531db","url":"https://simonwillison.net/atom/everything/","title":"Simon Willison's Weblog","site_url":"http://simonwillison.net/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211142248Z"}
 {"id":"0cdc1a4fcac","url":"https://kentcdodds.com/blog/rss.xml","title":"Kent C. Dodds Blog","site_url":"https://kentcdodds.com/blog","description":"The Kent C. Dodds Blog","is_fetched":true,"updated_at":"2026-03-08T14:44:42.081059959Z"}
 {"id":"12db47ba304","url":"http://blog.jetbrains.com/webstorm/feed/","title":"WebStorm : The JavaScript and TypeScript IDE | The JetBrains Blog","site_url":"https://blog.jetbrains.com","description":"Developer Tools for Professionals and Teams","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080393400Z"}
