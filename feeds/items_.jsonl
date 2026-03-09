@@ -31,7 +31,7 @@
 {"id":"91262060437","deleted_at":"2026-03-08T21:34:50.292749247Z"}
 {"id":"930be6dfb72","deleted_at":"2026-03-08T21:34:50.440672896Z"}
 {"id":"930e954ac1a","url":"https://acko.net/atom.xml","title":"Acko.net","site_url":"https://acko.net/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211158106Z"}
-{"id":"94a17973fe1","url":"https://github.com/kantord/blogtato/releases.atom","title":"Release notes from blogtato","site_url":"https://github.com/kantord/blogtato/releases","description":"","is_fetched":true,"updated_at":"2026-03-08T13:09:59.813611718Z"}
+{"id":"94a17973fe1","deleted_at":"2026-03-09T08:18:58.760683501Z"}
 {"id":"95bd2ec50f9","url":"https://tuananh.net/feed.xml","title":"Tuan-Anh Tran","site_url":"https://tuananh.net/","description":"Recent content on Tuan-Anh Tran","is_fetched":true,"updated_at":"2026-03-08T12:11:50.210886625Z"}
 {"id":"97646ed0ddb","deleted_at":"2026-03-08T21:37:35.459354605Z"}
 {"id":"9b4e6a50938","url":"https://www.ribbonfarm.com/feed/","title":"ribbonfarm","site_url":"https://www.ribbonfarm.com","description":"constructions in magical thinking","is_fetched":true,"updated_at":"2026-03-09T08:16:37.099823369Z"}
