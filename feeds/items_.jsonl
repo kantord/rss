@@ -1,4 +1,4 @@
-{"id":"0443108a2e2","url":"https://www.chrisatmachine.com/rss.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173557203Z"}
+{"id":"0443108a2e2","deleted_at":"2026-03-09T11:55:36.477219453Z"}
 {"id":"052434531db","url":"https://simonwillison.net/atom/everything/","title":"Simon Willison's Weblog","site_url":"http://simonwillison.net/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211142248Z"}
 {"id":"0cdc1a4fcac","url":"https://kentcdodds.com/blog/rss.xml","title":"Kent C. Dodds Blog","site_url":"https://kentcdodds.com/blog","description":"The Kent C. Dodds Blog","is_fetched":true,"updated_at":"2026-03-08T14:44:42.081059959Z"}
 {"id":"12db47ba304","url":"http://blog.jetbrains.com/webstorm/feed/","title":"WebStorm : The JavaScript and TypeScript IDE | The JetBrains Blog","site_url":"https://blog.jetbrains.com","description":"Developer Tools for Professionals and Teams","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080393400Z"}
@@ -12,11 +12,11 @@
 {"id":"4977f17e33d","url":"https://michael.stapelberg.ch/feed.xml","title":"Michael Stapelbergs Website","site_url":"https://michael.stapelberg.ch/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211167403Z"}
 {"id":"5610562633d","url":"https://dev.to/feed/richharris","title":"DEV Community: Rich Harris","site_url":"https://dev.to/richharris","description":"The latest articles on DEV Community by Rich Harris (@richharris).","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080365809Z"}
 {"id":"589c9bf789c","deleted_at":"2026-03-08T21:37:35.389285962Z"}
-{"id":"5a332ea4404","deleted_at":"2026-03-09T08:17:33.910337943Z"}
+{"id":"5a332ea4404","deleted_at":"2026-03-09T11:56:59.430656567Z"}
 {"id":"5d1aaa7ffd6","url":"http://www.genbeta.com/index.xml","title":"Genbeta","site_url":"https://www.genbeta.com","description":"Software, descargas y novedades. Las mejores aplicaciones web, con los trucos más útiles y toda la información.","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080675814Z"}
 {"id":"5e94dfdfda5","url":"https://github.com/sveltejs/svelte/releases.atom","title":"Release notes from svelte","site_url":"https://github.com/sveltejs/svelte/releases","description":"","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080937095Z"}
 {"id":"5ed695d82c0","url":"http://feeds.feedburner.com/Techcrunch","title":"Crunch Hype","site_url":"https://techncruncher.blogspot.com/","description":"Tech Crunch is a free Digital Marketing Site. The main goal of this site is to provide quality tutorials, tips, courses, tools and other resources that allows anyone to work online and master digital marketing based on real case study and deep research.","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080386790Z"}
-{"id":"669c803451f","deleted_at":"2026-03-09T08:18:38.865242041Z"}
+{"id":"669c803451f","deleted_at":"2026-03-09T11:57:28.688141412Z"}
 {"id":"6c7bb23f8db","deleted_at":"2026-03-08T21:34:50.366420834Z"}
 {"id":"6edf23cec42","url":"https://www.scottsmitelli.com/index.xml","title":"Scott Smitelli","site_url":"https://www.scottsmitelli.com/","description":"Recent content on Scott Smitelli","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211258571Z"}
 {"id":"72a544f056d","deleted_at":"2026-03-08T21:38:37.537332290Z"}
@@ -35,7 +35,7 @@
 {"id":"95bd2ec50f9","url":"https://tuananh.net/feed.xml","title":"Tuan-Anh Tran","site_url":"https://tuananh.net/","description":"Recent content on Tuan-Anh Tran","is_fetched":true,"updated_at":"2026-03-08T12:11:50.210886625Z"}
 {"id":"97646ed0ddb","deleted_at":"2026-03-08T21:37:35.459354605Z"}
 {"id":"9b4e6a50938","url":"https://www.ribbonfarm.com/feed/","title":"ribbonfarm","site_url":"https://www.ribbonfarm.com","description":"constructions in magical thinking","is_fetched":true,"updated_at":"2026-03-09T08:16:37.099823369Z"}
-{"id":"a1214a153b8","url":"http://drnerdlove.tumblr.com/rss","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173562459Z"}
+{"id":"a1214a153b8","deleted_at":"2026-03-09T11:56:09.581002475Z"}
 {"id":"a9176be9b70","url":"http://feeds.feedburner.com/zenhabits","title":"zen habits","site_url":"https://zenhabits.net/","description":"breathe","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080335065Z"}
 {"id":"aac2800c268","url":"https://jonathan-frere.com/index.xml","title":"Jonathan's Blog","site_url":"https://jonathan-frere.com/","description":"Recent content on Jonathan's Blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211180483Z"}
 {"id":"ac2ebd7701d","url":"https://lr0.org/index.xml","title":"La Vita Nouva","site_url":"https://lr0.org/","description":"Recent content on La Vita Nouva","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211272346Z"}
@@ -44,11 +44,11 @@
 {"id":"b5620c8aa8a","deleted_at":"2026-03-08T21:37:35.318736130Z"}
 {"id":"be87c604d71","url":"https://ebredoszexualitas.hu/feed/","title":"Ébredő Szexualitás Blog","site_url":"https://ebredoszexualitas.hu/polilili-honlapja/","description":"Őszintén a szexről (18+)","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080415459Z"}
 {"id":"c1462616e79","url":"https://dimden.dev/rss.xml","title":"dimden","site_url":"https://dimden.dev/","description":"I'm a cat","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211099152Z"}
-{"id":"c486a759bb0","url":"https://cat.elpais.com/seccion/rss/tecnologia/","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173564006Z"}
+{"id":"c486a759bb0","deleted_at":"2026-03-09T11:56:13.558839617Z"}
 {"id":"cdffe28cd31","url":"https://www.noelberry.ca/rss.xml","title":"Noel Berry","site_url":"https://noelberry.ca","description":"Sometimes, when I'm in the right mood, I make video games and art. Or something.","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211183447Z"}
 {"id":"daa6863e1f3","deleted_at":"2026-03-08T12:11:13.853456684Z"}
 {"id":"f3b41fa1ae8","url":"https://www.justinmklam.com/index.xml","title":"justinmklam | blog","site_url":"https://justinmklam.com/","description":"Recent content on justinmklam | blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211124218Z"}
 {"id":"f569b6f94f0","url":"https://drewdevault.com/blog/index.xml","title":"Drew DeVault's blog","site_url":"https://drewdevault.com","description":"Recent content in Blogs on Drew DeVault's blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211089202Z"}
-{"id":"f67de55c93c","url":"http://minimalspot.com/feed/","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-08T14:44:27.173563351Z"}
+{"id":"f67de55c93c","deleted_at":"2026-03-09T11:56:34.900590328Z"}
 {"id":"f839854a36c","url":"http://lesswrong.com/.rss","title":"LessWrong","site_url":"https://www.lesswrong.com","description":"A community blog devoted to refining the art of rationality","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080892014Z"}
 {"id":"fdbc66eb05e","url":"http://www.theverge.com/rss/full.xml","title":"The Verge","site_url":"https://www.theverge.com","description":"The Verge is about technology and how it makes us feel. Founded in 2011, we offer our audience everything from breaking news to reviews to award-winning features and investigations, on our site, in video, and in podcasts.","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080660427Z"}
