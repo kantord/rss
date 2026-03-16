@@ -2,5 +2,5 @@
 {"id":"d65377dceae57469","post_id":"0f351b75-103e-4db3-af93-a685d6a637a4","read_at":"2026-03-08T14:44:42.080423578Z","updated_at":"2026-03-08T14:44:42.080436112Z"}
 {"id":"d66897d37a4fe4e4","post_id":"https://svelte.dev/blog/sveltekit-beta","read_at":"2026-03-08T14:44:42.080480334Z","updated_at":"2026-03-08T14:44:42.080501742Z"}
 {"id":"d6b60058a5c03114","post_id":"https://kentcdodds.com/blog/favor-progress-over-pride-in-open-source","read_at":"2026-03-08T14:44:42.080952512Z","updated_at":"2026-03-08T14:44:42.080977305Z"}
-{"id":"d6e45c996ecee1cc","post_id":"https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html","read_at":"2026-03-08T14:44:42.080678380Z","updated_at":"2026-03-08T14:44:42.080680484Z"}
+{"id":"d6e45c996ecee1cc","deleted_at":"2026-03-16T22:06:08.249514277Z"}
 {"id":"d6efacdacc275bd7","post_id":"https://drewdevault.com/2022/08/28/powerctl-a-hare-case-study.html","read_at":"2026-03-08T16:03:43.933703554Z","updated_at":"2026-03-08T16:03:43.944871718Z"}
