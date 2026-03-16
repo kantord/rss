@@ -15,7 +15,7 @@
 {"id":"5a332ea4404","deleted_at":"2026-03-09T11:56:59.430656567Z"}
 {"id":"5d1aaa7ffd6","deleted_at":"2026-03-13T22:30:08.432048521Z"}
 {"id":"5e94dfdfda5","url":"https://github.com/sveltejs/svelte/releases.atom","title":"Release notes from svelte","site_url":"https://github.com/sveltejs/svelte/releases","description":"","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080937095Z"}
-{"id":"5ed695d82c0","url":"http://feeds.feedburner.com/Techcrunch","title":"Crunch Hype","site_url":"https://techncruncher.blogspot.com/","description":"Tech Crunch is a free Digital Marketing Site. The main goal of this site is to provide quality tutorials, tips, courses, tools and other resources that allows anyone to work online and master digital marketing based on real case study and deep research.","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080386790Z"}
+{"id":"5ed695d82c0","deleted_at":"2026-03-16T22:06:03.604316866Z"}
 {"id":"669c803451f","deleted_at":"2026-03-09T11:57:28.688141412Z"}
 {"id":"6c7bb23f8db","deleted_at":"2026-03-08T21:34:50.366420834Z"}
 {"id":"6eaf402c692","url":"https://daringfireball.net/feeds/main","title":"Daring Fireball","site_url":"https://daringfireball.net/","description":"By John Gruber","is_fetched":true,"updated_at":"2026-03-12T10:30:49.352818796Z"}
