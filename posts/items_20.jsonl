@@ -1,6 +1,6 @@
 {"id":"200aae0d1c001fd6","deleted_at":"2026-03-16T22:07:37.704158923Z"}
 {"id":"201f73cccddf80ab","title":"Use ternaries rather than && in JSX","date":null,"feed":"0cdc1a4fcac","link":"https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx","raw_id":"https://kentcdodds.com/blog/use-ternaries-rather-than-and-and-in-jsx","updated_at":"2026-03-08T14:44:42.081023101Z"}
-{"id":"20383afd11737e85","title":"The right way to talk about LLMs","date":"2026-03-13T01:04:24Z","feed":"f839854a36c","link":"https://www.lesswrong.com/posts/9hhT2bQnszpwBQ527/the-right-way-to-talk-about-llms","raw_id":"9hhT2bQnszpwBQ527","updated_at":"2026-03-13T19:31:28.072041440Z"}
+{"id":"20383afd11737e85","deleted_at":"2026-03-16T22:14:06.122300947Z"}
 {"id":"20451619fd847d26","deleted_at":"2026-03-16T22:07:02.991800333Z"}
 {"id":"2083068088c0735f","title":"Demystifying Testing","date":null,"feed":"0cdc1a4fcac","link":"https://kentcdodds.com/blog/demystifying-testing","raw_id":"https://kentcdodds.com/blog/demystifying-testing","updated_at":"2026-03-08T14:44:42.081042579Z"}
 {"id":"2085f878d33ea8d4","title":"Coding Agent VMs on NixOS with microvm.nix","date":"2026-02-01T08:00:00Z","feed":"4977f17e33d","link":"https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/","raw_id":"https://michael.stapelberg.ch/posts/2026-02-01-coding-agent-microvm-nix/","updated_at":"2026-03-08T12:11:50.211160541Z"}
