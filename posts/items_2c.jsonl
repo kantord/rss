@@ -4,6 +4,7 @@
 {"id":"2c66e25ae309ad17","deleted_at":"2026-03-16T22:07:02.991800333Z"}
 {"id":"2c6f2831459986b6","deleted_at":"2026-03-08T21:34:50.292749832Z"}
 {"id":"2c9e80c6850f147b","title":"Effective Snapshot Testing","date":null,"feed":"0cdc1a4fcac","link":"https://kentcdodds.com/blog/effective-snapshot-testing","raw_id":"https://kentcdodds.com/blog/effective-snapshot-testing","updated_at":"2026-03-08T14:44:42.081054568Z"}
+{"id":"2cad6be868215051","title":"Folds are constructor substitution>","date":"2021-02-06T00:00:00Z","feed":"6ab8f2f492a","link":"https://haskellforall.com/2021/02/folds-are-constructor-substitution","raw_id":"https://haskellforall.com/2021/02/folds-are-constructor-substitution","updated_at":"2026-03-19T10:59:18.702892140Z"}
 {"id":"2cc9af696d11819b","deleted_at":"2026-03-16T22:14:06.122300947Z"}
 {"id":"2ccbf49b0efdb233","deleted_at":"2026-03-16T22:07:37.704158923Z"}
 {"id":"2cddbcbfaee528c1","title":"A Social Filesystem","date":"2026-01-18T00:00:00Z","feed":"449cde1ff77","link":"https://overreacted.io/a-social-filesystem/","raw_id":"https://overreacted.io/a-social-filesystem/","updated_at":"2026-03-08T14:44:42.080552911Z"}
