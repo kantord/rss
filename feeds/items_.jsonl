@@ -31,7 +31,7 @@
 {"id":"847e52851d4","deleted_at":"2026-03-08T21:38:11.455619199Z"}
 {"id":"8882294aa62","deleted_at":"2026-03-16T22:06:08.249102438Z"}
 {"id":"8d3f1e6f706","url":"https://terriblesoftware.org/feed/","title":"Terrible Software","site_url":"https://terriblesoftware.org","description":"Software | Engineering Leadership | Tech","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211094363Z"}
-{"id":"8edc62ada11","url":"https://stevekrouse.com/rss.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-03-23T10:17:42.724935047Z"}
+{"id":"8edc62ada11","url":"https://stevekrouse.com/rss.xml","title":"Steve Krouse","site_url":"https://stevekrouse.com","description":"Essays by Steve Krouse","is_fetched":true,"updated_at":"2026-03-23T10:17:51.866090854Z"}
 {"id":"90468c71a60","deleted_at":"2026-03-16T22:07:13.708483804Z"}
 {"id":"91262060437","deleted_at":"2026-03-08T21:34:50.292749247Z"}
 {"id":"930be6dfb72","deleted_at":"2026-03-08T21:34:50.440672896Z"}
@@ -49,7 +49,7 @@
 {"id":"b5620c8aa8a","deleted_at":"2026-03-08T21:37:35.318736130Z"}
 {"id":"be29eff865e","url":"https://blog.get-nerve.com/rss","title":"The Nerve Blog","site_url":"https://blog.get-nerve.com/","description":"Nerve's official Blog","is_fetched":true,"updated_at":"2026-03-21T15:25:44.132873162Z"}
 {"id":"be87c604d71","url":"https://ebredoszexualitas.hu/feed/","title":"Ébredő Szexualitás Blog","site_url":"https://ebredoszexualitas.hu/polilili-honlapja/","description":"Őszintén a szexről (18+)","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080415459Z"}
-{"id":"c1462616e79","url":"https://dimden.dev/rss.xml","title":"dimden","site_url":"https://dimden.dev/","description":"I'm a cat","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211099152Z"}
+{"id":"c1462616e79","url":"https://dimden.dev/rss.xml","title":"dimden","site_url":"https://dimden.dev/blog","description":"I'm a cat","is_fetched":true,"updated_at":"2026-03-23T10:17:51.866023645Z"}
 {"id":"c486a759bb0","deleted_at":"2026-03-09T11:56:13.558839617Z"}
 {"id":"c4e0307c37c","url":"https://sdomi.pl/weblog/atom","title":"domi's weblog","site_url":"http://sdomi.pl/weblog/atom/","description":"","is_fetched":true,"updated_at":"2026-03-21T15:25:44.133335575Z"}
 {"id":"c82a291369e","url":"https://terriblesoftware.org/feed","title":"Terrible Software","site_url":"https://terriblesoftware.org","description":"Software | Engineering Leadership | Tech","is_fetched":true,"updated_at":"2026-03-16T22:52:16.379562696Z"}
