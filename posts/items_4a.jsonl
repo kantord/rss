@@ -10,5 +10,6 @@
 {"id":"4a962bfbcdde31d9","deleted_at":"2026-03-16T22:07:37.704158923Z"}
 {"id":"4a998392ebb29fe9","deleted_at":"2026-03-09T11:56:59.430657313Z"}
 {"id":"4a9e25bd480e97bb","deleted_at":"2026-03-16T22:07:57.711317172Z"}
+{"id":"4ab5512a814c6919","title":"Rossetti","date":"2026-05-01T00:00:00Z","feed":"ac2ebd7701d","link":"https://lr0.org/microblog/2026-05-01-1/","raw_id":"https://lr0.org/microblog/2026-05-01-1/","updated_at":"2026-05-02T18:19:10.785552988Z"}
 {"id":"4ac25b7108d770c1","title":"Using Google Cloud Pubsub for Batch Pipelines in Apache Beam","date":"2022-11-23T20:31:53Z","feed":"f3b41fa1ae8","link":"https://justinmklam.com/posts/2022/11/apache-beam-pubsub/","raw_id":"https://justinmklam.com/posts/2022/11/apache-beam-pubsub/","updated_at":"2026-03-08T12:11:50.211105391Z"}
 {"id":"4ad2065c00a50008","deleted_at":"2026-03-09T11:56:59.430657313Z"}
