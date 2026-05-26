@@ -4,7 +4,7 @@
 {"id":"12db47ba304","deleted_at":"2026-03-16T22:06:13.006022441Z"}
 {"id":"1ee25c2e8de","deleted_at":"2026-03-16T22:07:02.991087239Z"}
 {"id":"23687f971b3","url":"https://minimaxir.com/post/index.xml","title":"Posts on Max Woolf's Blog","site_url":"https://minimaxir.com/post/","description":"Recent content in Posts on Max Woolf's Blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.210892885Z"}
-{"id":"28c95ad6285","url":"https://joe.dev/index.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-05-24T16:42:01.345439178Z"}
+{"id":"28c95ad6285","url":"https://joe.dev/index.xml","title":"joe.dev","site_url":"https://joe.dev/","description":"Recent content on joe.dev","is_fetched":true,"updated_at":"2026-05-26T20:27:25.226559591Z"}
 {"id":"2c419f654a7","deleted_at":"2026-03-08T21:38:11.382103595Z"}
 {"id":"4230e346c77","deleted_at":"2026-03-08T21:38:42.822318647Z"}
 {"id":"449cde1ff77","url":"https://overreacted.io/rss.xml","title":"overreacted — A blog by Dan Abramov","site_url":"https://overreacted.io/","description":"A blog by Dan Abramov","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080566315Z"}
