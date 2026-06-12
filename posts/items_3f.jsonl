@@ -6,7 +6,7 @@
 {"id":"3f37a9c96a2e1030","title":"How to make forbidden changes to SQLite tables","date":"2024-12-24T11:08:52Z","feed":"d07fb2f032f","link":"https://rakhim.exotext.com/how-to-make-forbidden-changes-to-sqlite-tables","raw_id":"https://rakhim.exotext.com/how-to-make-forbidden-changes-to-sqlite-tables","updated_at":"2026-03-21T23:13:17.963356856Z"}
 {"id":"3f3da955f827eb82","deleted_at":"2026-03-08T21:34:50.366421436Z"}
 {"id":"3f6e6978ccf8bf52","deleted_at":"2026-03-16T22:07:57.711317172Z"}
-{"id":"3f826e4f75375797","title":"Incrementally package a Haskell program using Nix>","date":"2022-08-28T00:00:00Z","feed":"6ab8f2f492a","link":"https://haskellforall.com/2022/08/incrementally-package-haskell-program","raw_id":"https://haskellforall.com/2022/08/incrementally-package-haskell-program","updated_at":"2026-03-19T10:59:18.702883546Z"}
+{"id":"3f826e4f75375797","title":"Incrementally package a Haskell program using Nix","date":"2022-08-28T00:00:00Z","feed":"6ab8f2f492a","link":"https://haskellforall.com/2022/08/incrementally-package-haskell-program","raw_id":"https://haskellforall.com/2022/08/incrementally-package-haskell-program","updated_at":"2026-06-12T09:17:25.518799314Z"}
 {"id":"3f82dad0e6cd29d9","deleted_at":"2026-03-16T22:07:02.991800333Z"}
 {"id":"3f847a373be21d57","title":"MSG_PEEK is pretty common, CVE-2016-10229 is worse than you think","date":"2017-04-13T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/blog/MSG_PEEK-is-more-common-than-you-think-CVE-2016-10229/","raw_id":"https://drewdevault.com/blog/MSG_PEEK-is-more-common-than-you-think-CVE-2016-10229/","updated_at":"2026-04-27T13:24:58.311175579Z"}
 {"id":"3f84c9eb3b93262a","deleted_at":"2026-03-16T22:07:37.704158923Z"}
@@ -14,4 +14,5 @@
 {"id":"3fab9df3aafece44","deleted_at":"2026-03-16T22:06:17.780353456Z"}
 {"id":"3fc31029155dd0d8","deleted_at":"2026-03-16T22:07:37.704158923Z"}
 {"id":"3fd291c9662effa8","deleted_at":"2026-03-16T22:07:02.991800333Z"}
+{"id":"3fd775078b6844a7","title":"2026/06/09","date":"2026-06-09T00:00:00Z","feed":"ac2ebd7701d","link":"https://lr0.org/diary/2026-06-09/","raw_id":"https://lr0.org/diary/2026-06-09/","updated_at":"2026-06-12T09:17:25.518954091Z"}
 {"id":"3fdba35f04dc8c46","title":"Optimizing rendering of 100,000+ HTML nodes","date":"2024-04-03T21:00:00Z","feed":"c1462616e79","link":"https://dimden.dev/blog/?id=13-optimizing-rendering-of-100k-html-nodes","raw_id":"13","updated_at":"2026-03-08T12:11:50.211096017Z"}
