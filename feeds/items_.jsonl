@@ -64,6 +64,7 @@
 {"id":"e022270e99c","url":"https://gomakethings.com/feed/index.xml","title":"Go Make Things","site_url":"https://gomakethings.com/articles","description":"Chris Ferdinandi is a web developer with ADHD, helping people build the web better.","is_fetched":true,"updated_at":"2026-06-12T09:17:25.518782473Z"}
 {"id":"eb9bff646a9","url":"https://mmapped.blog/feed.xml","title":"MMapped blog","site_url":"https://mmapped.blog/feed.xml","description":"","is_fetched":true,"updated_at":"2026-07-13T18:51:12.706214466Z"}
 {"id":"f3b41fa1ae8","url":"https://www.justinmklam.com/index.xml","title":"justinmklam | blog","site_url":"https://justinmklam.com/","description":"Recent content on justinmklam | blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211124218Z"}
+{"id":"f3dd435da7c","url":"https://lucumr.pocoo.org/feed.atom","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-07-14T21:31:48.230302863Z"}
 {"id":"f569b6f94f0","url":"https://drewdevault.com/blog/index.xml","title":"Drew DeVault's blog","site_url":"https://drewdevault.com","description":"Drew DeVault's blog - Blog","is_fetched":true,"updated_at":"2026-04-27T13:24:58.311191693Z"}
 {"id":"f67de55c93c","deleted_at":"2026-03-09T11:56:34.900590328Z"}
 {"id":"f839854a36c","deleted_at":"2026-03-16T22:14:06.122073894Z"}
