@@ -23,8 +23,8 @@
 {"id":"6c7bb23f8db","deleted_at":"2026-03-08T21:34:50.366420834Z"}
 {"id":"6eaf402c692","deleted_at":"2026-03-16T22:43:46.718643507Z"}
 {"id":"6edf23cec42","url":"https://www.scottsmitelli.com/index.xml","title":"Scott Smitelli","site_url":"https://www.scottsmitelli.com/","description":"Recent content on Scott Smitelli","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211258571Z"}
-{"id":"6f4522f1a41","url":"https://curiouscoding.nl/index.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-07-18T11:22:23.459515658Z"}
-{"id":"717ee828741","url":"https://thisweekinbevy.com/feed.xml","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-07-18T17:13:18.998704425Z"}
+{"id":"6f4522f1a41","url":"https://curiouscoding.nl/index.xml","title":"home on CuriousCoding","site_url":"https://curiouscoding.nl/","description":"Recent content in home on CuriousCoding","is_fetched":true,"updated_at":"2026-07-18T17:13:27.464761622Z"}
+{"id":"717ee828741","url":"https://thisweekinbevy.com/feed.xml","title":"This Week in Bevy","site_url":"https://thisweekinbevy.com","description":"What happened this week in the Bevy Engine ecosystem","is_fetched":true,"updated_at":"2026-07-18T17:13:27.465330950Z"}
 {"id":"72a544f056d","deleted_at":"2026-03-08T21:38:37.537332290Z"}
 {"id":"72d68c78df1","url":"https://lexi-lambda.github.io/feeds/all.atom.xml","title":"Alexis King’s Blog","site_url":"https://lexi-lambda.github.io/","description":"","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080887220Z"}
 {"id":"7777a4774b8","deleted_at":"2026-03-08T21:37:35.248216217Z"}
