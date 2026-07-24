@@ -23,6 +23,8 @@
 {"id":"6c7bb23f8db","deleted_at":"2026-03-08T21:34:50.366420834Z"}
 {"id":"6eaf402c692","deleted_at":"2026-03-16T22:43:46.718643507Z"}
 {"id":"6edf23cec42","url":"https://www.scottsmitelli.com/index.xml","title":"Scott Smitelli","site_url":"https://www.scottsmitelli.com/","description":"Recent content on Scott Smitelli","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211258571Z"}
+{"id":"6f4522f1a41","url":"https://curiouscoding.nl/index.xml","title":"home on CuriousCoding","site_url":"https://curiouscoding.nl/","description":"Recent content in home on CuriousCoding","is_fetched":true,"updated_at":"2026-07-18T17:13:27.464761622Z"}
+{"id":"717ee828741","url":"https://thisweekinbevy.com/feed.xml","title":"This Week in Bevy","site_url":"https://thisweekinbevy.com","description":"What happened this week in the Bevy Engine ecosystem","is_fetched":true,"updated_at":"2026-07-18T17:13:27.465330950Z"}
 {"id":"72a544f056d","deleted_at":"2026-03-08T21:38:37.537332290Z"}
 {"id":"72d68c78df1","url":"https://lexi-lambda.github.io/feeds/all.atom.xml","title":"Alexis King’s Blog","site_url":"https://lexi-lambda.github.io/","description":"","is_fetched":true,"updated_at":"2026-03-08T14:44:42.080887220Z"}
 {"id":"7777a4774b8","deleted_at":"2026-03-08T21:37:35.248216217Z"}
@@ -42,6 +44,7 @@
 {"id":"97646ed0ddb","deleted_at":"2026-03-08T21:37:35.459354605Z"}
 {"id":"9b4e6a50938","url":"https://www.ribbonfarm.com/feed/","title":"ribbonfarm","site_url":"https://www.ribbonfarm.com","description":"constructions in magical thinking","is_fetched":true,"updated_at":"2026-03-09T08:16:37.099823369Z"}
 {"id":"a1214a153b8","deleted_at":"2026-03-09T11:56:09.581002475Z"}
+{"id":"a1414cba15c","url":"https://marco-nett.de/blog/rss.xml","title":"Marco Nett - Blog","site_url":"https://marco-nett.de/","description":"Posts from marco-nett.de","is_fetched":true,"updated_at":"2026-07-14T19:16:11.160598321Z"}
 {"id":"a9176be9b70","deleted_at":"2026-03-16T22:05:57.741380384Z"}
 {"id":"aac2800c268","url":"https://jonathan-frere.com/index.xml","title":"Jonathan's Blog","site_url":"https://jonathan-frere.com/","description":"Recent content on Jonathan's Blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211180483Z"}
 {"id":"ac2ebd7701d","url":"https://lr0.org/index.xml","title":"La Vita Nouva","site_url":"https://lr0.org/","description":"Recent content on La Vita Nouva","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211272346Z"}
@@ -62,7 +65,9 @@
 {"id":"d85e96758b4","url":"https://adamcoster.com/feeds/blog.atom","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-07-24T08:23:11.229808347Z"}
 {"id":"daa6863e1f3","deleted_at":"2026-03-08T12:11:13.853456684Z"}
 {"id":"e022270e99c","url":"https://gomakethings.com/feed/index.xml","title":"Go Make Things","site_url":"https://gomakethings.com/articles","description":"Chris Ferdinandi is a web developer with ADHD, helping people build the web better.","is_fetched":true,"updated_at":"2026-06-12T09:17:25.518782473Z"}
+{"id":"eb9bff646a9","url":"https://mmapped.blog/feed.xml","title":"MMapped blog","site_url":"https://mmapped.blog/feed.xml","description":"","is_fetched":true,"updated_at":"2026-07-13T18:51:12.706214466Z"}
 {"id":"f3b41fa1ae8","url":"https://www.justinmklam.com/index.xml","title":"justinmklam | blog","site_url":"https://justinmklam.com/","description":"Recent content on justinmklam | blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211124218Z"}
+{"id":"f3dd435da7c","url":"https://lucumr.pocoo.org/feed.atom","title":"Armin Ronacher's Thoughts and Writings","site_url":"https://lucumr.pocoo.org/","description":"","is_fetched":true,"updated_at":"2026-07-14T21:32:03.261021302Z"}
 {"id":"f569b6f94f0","url":"https://drewdevault.com/blog/index.xml","title":"Drew DeVault's blog","site_url":"https://drewdevault.com","description":"Drew DeVault's blog - Blog","is_fetched":true,"updated_at":"2026-04-27T13:24:58.311191693Z"}
 {"id":"f67de55c93c","deleted_at":"2026-03-09T11:56:34.900590328Z"}
 {"id":"f839854a36c","deleted_at":"2026-03-16T22:14:06.122073894Z"}

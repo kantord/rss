@@ -4,7 +4,10 @@
 {"id":"3b5e3e485aeecce4","deleted_at":"2026-03-16T22:07:37.704158923Z"}
 {"id":"3b68f9f7ca9c1156","title":"AMP'ed","date":"2016-10-21T00:00:00Z","feed":"95bd2ec50f9","link":"https://tuananh.net/2016/10/21/amped/","raw_id":"https://tuananh.net/2016/10/21/amped/","updated_at":"2026-03-08T12:11:50.210761240Z"}
 {"id":"3b6eed47e3837bf2","title":"Why Test?","date":"2024-06-23T00:00:00Z","feed":"aac2800c268","link":"https://jonathan-frere.com/posts/why-test/","raw_id":"https://jonathan-frere.com/posts/why-test/","updated_at":"2026-03-08T12:11:50.211175369Z"}
+{"id":"3b7b0f5c614887b4","title":"datasette 1.0a37","date":"2026-07-14T16:31:41Z","feed":"052434531db","link":"https://simonwillison.net/2026/Jul/14/datasette/#atom-everything","raw_id":"https://simonwillison.net/2026/Jul/14/datasette/#atom-everything","updated_at":"2026-07-14T21:32:03.261083907Z"}
+{"id":"3b8d69c87ae40f77","title":"Pruning for A* heuristics","date":"2021-12-10T23:00:00Z","feed":"6f4522f1a41","link":"https://curiouscoding.nl/posts/pruning/","raw_id":"https://curiouscoding.nl/posts/pruning/","updated_at":"2026-07-18T17:13:27.464738617Z"}
 {"id":"3b9eabf0d954fd54","deleted_at":"2026-03-16T22:07:37.704158923Z"}
 {"id":"3bd6152c5656f1e0","title":"Hack everything without fear","date":"2018-03-17T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/blog/Hack-everything-without-fear/","raw_id":"https://drewdevault.com/blog/Hack-everything-without-fear/","updated_at":"2026-04-27T13:24:58.311167207Z"}
 {"id":"3beb8473c5da2ad2","title":"leroux-cache","date":"2015-04-01T00:00:00Z","feed":"6edf23cec42","link":"https://www.scottsmitelli.com/projects/leroux-cache/","raw_id":"https://www.scottsmitelli.com/projects/leroux-cache/","updated_at":"2026-03-08T12:11:50.211192808Z"}
 {"id":"3bfb9df55e280f98","deleted_at":"2026-03-16T22:07:02.991800333Z"}
+{"id":"3bfc5b56b9533c10","title":"28000x speedup with Numba.CUDA","date":"2021-05-23T22:00:00Z","feed":"6f4522f1a41","link":"https://curiouscoding.nl/posts/numba-cuda-speedup/","raw_id":"https://curiouscoding.nl/posts/numba-cuda-speedup/","updated_at":"2026-07-18T17:13:27.464756382Z"}

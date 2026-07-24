@@ -1,4 +1,5 @@
 {"id":"6f0c6aababbf4731","deleted_at":"2026-03-16T22:07:37.704158923Z"}
+{"id":"6f16a33ecae82121","title":"sqlite-utils 4.0","date":"2026-07-07T15:42:43Z","feed":"052434531db","link":"https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything","raw_id":"https://simonwillison.net/2026/Jul/7/sqlite-utils/#atom-everything","updated_at":"2026-07-13T18:50:46.663347191Z"}
 {"id":"6f1a4e0c754e6704","title":"The state of Linux on desktop (2020)","date":"2021-02-13T00:00:00Z","feed":"95bd2ec50f9","link":"https://tuananh.net/2021/02/13/the-state-of-linux-on-desktop-2020/","raw_id":"https://tuananh.net/2021/02/13/the-state-of-linux-on-desktop-2020/","updated_at":"2026-03-08T12:11:50.210739226Z"}
 {"id":"6f24052e036f517b","deleted_at":"2026-03-16T22:07:37.704158923Z"}
 {"id":"6f30ae0a090a1f8b","title":"Microsoft Copilot Cowork Exfiltrates Files","date":"2026-05-26T15:36:48Z","feed":"052434531db","link":"https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything","raw_id":"https://simonwillison.net/2026/May/26/copilot-cowork-exfiltrates-files/#atom-everything","updated_at":"2026-05-26T20:27:25.226691387Z"}
@@ -15,8 +16,10 @@
 {"id":"6fa7412baa275ba8","deleted_at":"2026-03-02T10:54:27.617123793Z"}
 {"id":"6fb3e036e65f4f29","deleted_at":"2026-03-09T11:56:59.430657313Z"}
 {"id":"6fbda3633e9465e9","deleted_at":"2026-03-08T21:34:50.440673319Z"}
+{"id":"6fcc189f6dc71859","title":"Effective design docs","date":"2024-09-15T00:00:00Z","feed":"eb9bff646a9","link":"https://mmapped.blog/posts/31-effective-design-docs.html","raw_id":"https://mmapped.blog/posts/31-effective-design-docs.html","updated_at":"2026-07-13T18:51:12.706206513Z"}
 {"id":"6fd60973a1413c1b","title":"micropython-wasm 0.1a1","date":"2026-06-02T19:20:47Z","feed":"052434531db","link":"https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything","raw_id":"https://simonwillison.net/2026/Jun/2/micropython-wasm/#atom-everything","updated_at":"2026-06-12T09:17:25.519020771Z"}
 {"id":"6fdc13e1a2037f10","title":"I shall toil at a reduced volume","date":"2022-12-01T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/2022/12/01/I-shall-toil-quietly.html","raw_id":"https://drewdevault.com/2022/12/01/I-shall-toil-quietly.html","updated_at":"2026-03-08T12:11:50.210929451Z"}
 {"id":"6fde79a747410c06","deleted_at":"2026-03-16T22:43:46.718873910Z"}
 {"id":"6fe50fcc262bbab0","title":"Elasticsearch does not belong to Elastic","date":"2021-01-19T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/2021/01/19/Elasticsearch-does-not-belong-to-Elastic.html","raw_id":"https://drewdevault.com/2021/01/19/Elasticsearch-does-not-belong-to-Elastic.html","updated_at":"2026-03-08T12:11:50.210956666Z"}
+{"id":"6fe821d0b47fbba5","title":"Fontificator","date":"2026-06-16T01:51:27.576Z","feed":"aea604a0caf","link":"https://unsung.aresluna.org/fontificator","raw_id":"https://unsung.aresluna.org/fontificator","updated_at":"2026-07-13T18:50:46.663494193Z"}
 {"id":"6ffaf8c28173cbd4","title":"Compiler devnotes: Machine specs","date":"2017-02-22T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/2017/02/22/cozy-devnotes-machine-specs.html","raw_id":"https://drewdevault.com/2017/02/22/cozy-devnotes-machine-specs.html","updated_at":"2026-03-08T12:11:50.210997453Z"}
