@@ -11,6 +11,7 @@
 {"id":"117d8ef3d889b474","deleted_at":"2026-03-16T22:07:02.991800333Z"}
 {"id":"11a788a47909df1d","title":"Status update, July 2022","date":"2022-07-18T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/blog/Status-update-July-2022/","raw_id":"https://drewdevault.com/blog/Status-update-July-2022/","updated_at":"2026-04-27T13:24:58.311090146Z"}
 {"id":"11bb51b4a2c24ff9","deleted_at":"2026-03-16T22:07:57.711317172Z"}
+{"id":"11c4bb42e287645e","title":"Protect your class constructors to create async instances in Typescript","date":"2025-03-27T23:12:47.396Z","feed":"d85e96758b4","link":"https://adamcoster.com/blog/async-constructors","raw_id":"https://adamcoster.com/blog/async-constructors","updated_at":"2026-07-24T08:23:20.134083269Z"}
 {"id":"11cbc42fe58e2329","title":"Introducing scdoc, a man page generator","date":"2018-05-13T00:00:00Z","feed":"f569b6f94f0","link":"https://drewdevault.com/blog/scdoc/","raw_id":"https://drewdevault.com/blog/scdoc/","updated_at":"2026-04-27T13:24:58.311165200Z"}
 {"id":"11d3ec7c1ecb98ff","title":"The new 20% time, minus the time","date":"2026-06-09T07:00:00Z","feed":"28c95ad6285","link":"https://joe.dev/posts/new-20pct-time/","raw_id":"https://joe.dev/posts/new-20pct-time/","updated_at":"2026-06-12T09:17:25.518865596Z"}
 {"id":"11d6ca4c4ad2a38d","deleted_at":"2026-03-09T11:57:28.688141995Z"}
