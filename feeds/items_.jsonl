@@ -2,6 +2,7 @@
 {"id":"052434531db","url":"https://simonwillison.net/atom/everything/","title":"Simon Willison's Weblog","site_url":"http://simonwillison.net/","description":"","is_fetched":true,"updated_at":"2026-03-08T12:11:50.211142248Z"}
 {"id":"0cdc1a4fcac","url":"https://kentcdodds.com/blog/rss.xml","title":"Kent C. Dodds Blog","site_url":"https://kentcdodds.com/blog","description":"The Kent C. Dodds Blog","is_fetched":true,"updated_at":"2026-03-08T14:44:42.081059959Z"}
 {"id":"12db47ba304","deleted_at":"2026-03-16T22:06:13.006022441Z"}
+{"id":"16e7f39926a","url":"https://blog.zsa.io/posts.rss","title":"","site_url":"","description":"","is_fetched":false,"updated_at":"2026-08-08T14:33:06.591035722Z"}
 {"id":"1ee25c2e8de","deleted_at":"2026-03-16T22:07:02.991087239Z"}
 {"id":"23687f971b3","url":"https://minimaxir.com/post/index.xml","title":"Posts on Max Woolf's Blog","site_url":"https://minimaxir.com/post/","description":"Recent content in Posts on Max Woolf's Blog","is_fetched":true,"updated_at":"2026-03-08T12:11:50.210892885Z"}
 {"id":"28c95ad6285","url":"https://joe.dev/index.xml","title":"joe.dev","site_url":"https://joe.dev/","description":"Recent content on joe.dev","is_fetched":true,"updated_at":"2026-05-26T20:27:25.226559591Z"}
